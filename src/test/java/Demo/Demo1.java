@@ -11,5 +11,6 @@ public void demo()
 	System.out.println("User 2 - First Commit");
 	System.out.println("User 1 - Second Commit");
 	System.out.println("Use 2 - Second Commit");
+	System.out.println("this will resolved");
 }
 }
