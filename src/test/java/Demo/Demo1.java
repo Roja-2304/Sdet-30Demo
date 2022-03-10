@@ -8,5 +8,6 @@ public class Demo1
 public void demo()
 {
 	System.out.println("User 1 - First Commit");
+	System.out.println("User 2 - First Commit");
 }
 }
